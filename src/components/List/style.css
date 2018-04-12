@@ -1,0 +1,7 @@
+.source-url {
+    word-break: break-word;
+}
+
+.source-url:hover {
+    text-decoration: underline;
+}
